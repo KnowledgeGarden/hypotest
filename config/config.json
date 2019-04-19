@@ -1,6 +1,0 @@
-{
-  "DBPath":"data/hypothesis",
-  "BaseURL":"https://hypothes.is/api/search",
-  "GroupId":"changeme",
-  "DeveloperToken":"changeme"
-}
